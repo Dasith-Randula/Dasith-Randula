@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Dasith+Randula+%E2%9C%A8;UI+Design+%26+Web+Development+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Dasith+Randula+%E2%9C%A8;UI+Design+%26+Web+Development+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
