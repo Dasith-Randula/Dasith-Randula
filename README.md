@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Dasith+Randula+%E2%9C%A8;" alt="Typing SVG" />
 </p>
 
+
 # 💫 About Me:
 Hi there! I'm an undergraduate Software Engineering student at SLTC Research University with a growing passion for coding, creativity, and building meaningful software.<br><br>- 🎓 Currently pursuing: BSc in Software Engineering at SLTC<br>- 🌱 Learning: C, C++ and sharpening my problem-solving skills<br>- 💬 Comfortable with: UI Design and Web Development<br>- 💡 Interests: Coding, creating clean user interfaces, and exploring new technologies<br>- 🚀 Looking forward to contributing to open-source and collaborative projects<br>
 
+![Banner](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_das1th_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dassa._.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasithrandula1234@gmail.com) 
