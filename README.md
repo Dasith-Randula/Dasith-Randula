@@ -47,6 +47,12 @@ Hi there! I'm an undergraduate Software Engineering student at SLTC Research Uni
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ### 🔝 Top Contributed Repo
