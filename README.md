@@ -57,4 +57,8 @@ Hi there! I'm an undergraduate Software Engineering student at SLTC Research Uni
 ---
 [![](https://visitcount.itsvg.in/api?id=Dasith-Randula&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Typing SVG" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
