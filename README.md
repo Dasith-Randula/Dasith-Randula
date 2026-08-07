@@ -11,41 +11,214 @@
 
 <table>
 <tr>
-<td>
 
-<h2>💫 About Me:</h2>
-Hi there! I'm an undergraduate Software Engineering student at SLTC Research University with a growing passion for coding, creativity, and building meaningful software.<br><br>
-🎓 Currently pursuing: BSc in Software Engineering at SLTC<br>
-🌱 Learning: C, C++ and sharpening my problem-solving skills<br>
-💬 Comfortable with: UI Design and Web Development<br>
-💡 Interests: Coding, creating clean user interfaces, and exploring new technologies<br>
-🚀 Looking forward to contributing to open-source and collaborative projects<br>
+<td width="60%">
+
+## 💫 About Me
+
+I am a Software Engineering undergraduate at **SLTC Research University** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Full-Stack Development, Mobile Applications, and IoT technologies**.
+
+I enjoy transforming ideas into real-world applications by combining software engineering principles with emerging technologies.
+
+🚀 Currently working on:
+
+- AI-powered software solutions
+- Machine Learning applications
+- IoT and Embedded Systems
+- Full-stack Web and Mobile Applications
+
+
+💡 Areas of Interest:
+
+- Artificial Intelligence
+- Software Engineering
+- IoT Systems
+- Cloud Technologies
+- Mobile Application Development
+
+
+🎯 Goal:
+
+To become a software engineer who creates reliable, scalable, and innovative technology solutions that solve real-world problems.
 
 </td>
-<td>
+
+
+<td width="40%">
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" />
 
 </td>
+
 </tr>
 </table>
 
+# 🌐 Connect With Me
 
-## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_das1th_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dassa._.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasithrandula1234@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dasith-Randula&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dasith-Randula&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasith-Randula&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dasith-Randula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<a href="mailto:dasithrandula1234@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<a href="https://dasith.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+</div>
+
+
+# 💻 Tech Stack
+
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,dart&theme=dark"/>
+</p>
+
+
+## 🌐 Web & Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,nodejs,express&theme=dark"/>
+</p>
+
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark"/>
+</p>
+
+- Scikit-learn
+- Random Forest
+- XGBoost
+- Computer Vision
+- Deep Learning
+
+
+## 🗄️ Database & Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,postgres&theme=dark"/>
+</p>
+
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark"/>
+</p>
+
+
+## 🔌 IoT & Embedded Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+</p>
+
+- ESP32
+- Embedded C
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+## 🤖 MIMO - AI Powered Smart Study Robot
+
+AI based learning assistant integrating ESP32, OpenAI API, Computer Vision and speech technologies.
+
+🟢 Completed
+
+
+---
+
+## 🛒 LankaSmartMart - Flutter Mobile Application
+
+Cross platform grocery shopping application with Firebase authentication, cloud synchronization and offline support.
+
+🟢 Completed
+
+
+---
+
+## 📊 DevInsight - AI Powered GitHub Analytics Platform
+
+AI based platform analysing GitHub repositories and predicting software project risks.
+
+🟡 Currently Developing
+
+
+---
+
+## 👗 Explainable Multi-Objective Generative Fashion Design
+
+Deep learning based fashion design generation system combined with machine learning demand prediction and explainable feedback refinement.
+
+🟡 Currently Developing
+
+The system focuses on generating fashion concepts, predicting demand and customer preference, explaining design performance and improving designs through a closed-loop refinement process. :contentReference[oaicite:1]{index=1}
+
+
+---
+
+
+# 📊 GitHub Stats
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dasith-Randula&show_icons=true&theme=github_dark&hide_border=true"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasith-Randula&layout=compact&theme=github_dark&hide_border=true"/>
+
+
+<br>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasith-Randula&theme=github-dark-blue&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+# 🏆 GitHub Achievements
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dasith-Randula&theme=algolia&no-frame=true&margin-w=10"/>
+
+</div>
+
+
+
+---
+
+# ✍️ Developer Quote
+
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
 
 <!-- Snake Game Repo View -->
 
