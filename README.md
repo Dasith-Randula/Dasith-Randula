@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I am a Software Engineering undergraduate at **SLTC Research University** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Full-Stack Development, Mobile Applications, and IoT technologies**.
+I am a Software Engineering undergraduate at **Sri Lanka Technological Campus** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Full-Stack Development, Mobile Applications, and IoT technologies**.
 
 I enjoy transforming ideas into real-world applications by combining software engineering principles with emerging technologies.
 
