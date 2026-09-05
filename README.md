@@ -179,16 +179,16 @@ The system focuses on generating fashion concepts, predicting demand and custome
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dasith-Randula&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dasith-Randula&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasith-Randula&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dasith-Randula&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF"/>
 
 
 <br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasith-Randula&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Dasith-Randula&theme=github-dark-blue&hide_border=true&background=00000000"/>
 
 
 </div>
@@ -202,7 +202,7 @@ The system focuses on generating fashion concepts, predicting demand and custome
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dasith-Randula&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dasith-Randula&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
