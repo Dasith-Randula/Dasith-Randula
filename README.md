@@ -197,18 +197,6 @@ The system focuses on generating fashion concepts, predicting demand and custome
 
 ---
 
-# 🏆 GitHub Achievements
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dasith-Randula&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
-
-
-
----
 
 # ✍️ Developer Quote
 
@@ -219,6 +207,7 @@ The system focuses on generating fashion concepts, predicting demand and custome
 
 </div>
 
+---
 
 <!-- Snake Game Repo View -->
 
@@ -227,12 +216,68 @@ The system focuses on generating fashion concepts, predicting demand and custome
 </div>
 
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dasith-Randula&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+**🛒 [lanka-smart-mart](https://github.com/Dasith-Randula/lanka-smart-mart)**
+
+LankaSmartMart is a Flutter-based online grocery shopping app for Sri Lanka with Firebase Authentication, Firestore, SQLite offline cart support, real-time synchronization, order management, and notifications.
+
+![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
+<br><br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
+
+</td>
+<td width="50%">
+
+**🏥 [SmartCare-Hospital-Management-System](https://github.com/Dasith-Randula/SmartCare-Hospital-Management-System)**
+
+SmartCare Hospital Management System developed using Java, Spring Boot, MySQL, Spring Data JPA and REST APIs for the CCS1303 Object-Oriented Programming coursework.
+
+![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="28"/>
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📈 [ogbn-arxiv-graph-intelligence](https://github.com/Dasith-Randula/ogbn-arxiv-graph-intelligence)**
+
+Graph Neural Network project for analyzing the OGBN-Arxiv citation network and classifying research papers with interactive visualizations.
+
+![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28"/>
+![GCN](https://img.shields.io/badge/GCN-4B0082?style=flat)
+![GraphSAGE](https://img.shields.io/badge/GraphSAGE-4B0082?style=flat)
+
+</td>
+<td width="50%">
+
+**🩺 [smartcare-disease-risk-ai](https://github.com/Dasith-Randula/smartcare-disease-risk-ai)**
+
+Explainable machine learning system for classifying SmartCare hospital patients into Low, Medium and High disease-risk categories using clinical and healthcare data.
+
+![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" height="28"/>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dasith-Randula&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Typing SVG" />
