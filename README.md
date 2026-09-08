@@ -176,22 +176,23 @@ The system focuses on generating fashion concepts, predicting demand and custome
 # 📊 GitHub Stats
 
 
-<div align="center">
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dasith-Randula&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dasith-Randula&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF"/>
-
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
 
 <br>
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Dasith-Randula" alt="GitHub Insights" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Dasith-Randula&theme=github-dark-blue&hide_border=true&background=00000000"/>
+<br><br>
 
-
-</div>
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 
 
