@@ -2,10 +2,24 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner" width="80" />
 </p>
 
-
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Dasith Randula
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Dasith+Randula+%E2%9C%A8;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile;Software+Engineering+Undergraduate;AI+%7C+Machine+Learning+%7C+Software+Engineering" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dasith-Randula&color=blue" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Dasith-Randula?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="55%" alt="GitHub Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
 
 
@@ -14,7 +28,7 @@
 
 <td width="60%">
 
-## 💫 About Me
+<h2 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h2>
 
 I am a Software Engineering undergraduate at **Sri Lanka Technological Campus** passionate about building intelligent and practical digital solutions using **Artificial Intelligence, Full-Stack Development, Mobile Applications, and IoT technologies**.
 
@@ -53,127 +67,256 @@ To become a software engineer who creates reliable, scalable, and innovative tec
 </tr>
 </table>
 
-# 🌐 Connect With Me
-
-
-<div align="center">
-
-<a href="mailto:dasithrandula1234@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://dasith.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 💻 Tech Stack
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  Tech Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
+<br>
 
-
-## 👨‍💻 Programming Languages
-
+<h2 align="center"> 
+  👨‍💻 Programming Languages
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,dart&theme=dark"/>
 </p>
+<br>
 
-
-## 🌐 Web & Mobile Development
-
+<h2 align="center"> 
+  🌐 Web & Mobile Development
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,nodejs,express&theme=dark"/>
 </p>
+<br>
 
-
-## 🤖 Artificial Intelligence & Machine Learning
-
+<h2 align="center"> 
+  🤖 Artificial Intelligence & Machine Learning
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark"/>
-</p>
-
+<br>
 - Scikit-learn
 - Random Forest
 - XGBoost
 - Computer Vision
 - Deep Learning
+</p>
+<br>
 
 
-## 🗄️ Database & Backend
-
+<h2 align="center"> 
+  🗄️ Database & Backend
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,postgres&theme=dark"/>
 </p>
+<br>
 
-
-## ☁️ Cloud & DevOps
-
+<h2 align="center"> 
+  ☁️ Cloud & DevOps
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark"/>
 </p>
+<br>
 
-
-## 🔌 IoT & Embedded Systems
-
+<h2 align="center"> 
+  🔌 IoT & Embedded Systems
+</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-</p>
-
+<br>
 - ESP32
 - Embedded C
-
-
----
-
-
-# 🚀 Featured Projects
-
-
-## 🤖 MIMO - AI Powered Smart Study Robot
-
-AI based learning assistant integrating ESP32, OpenAI API, Computer Vision and speech technologies.
-
-🟢 Completed
-
-
----
-
-## 🛒 LankaSmartMart - Flutter Mobile Application
-
-Cross platform grocery shopping application with Firebase authentication, cloud synchronization and offline support.
-
-🟢 Completed
-
-
----
-
-## 📊 DevInsight - AI Powered GitHub Analytics Platform
-
-AI based platform analysing GitHub repositories and predicting software project risks.
-
-🟡 Currently Developing
-
-
----
-
-## 👗 Explainable Multi-Objective Generative Fashion Design
-
-Deep learning based fashion design generation system combined with machine learning demand prediction and explainable feedback refinement.
-
-🟡 Currently Developing
-
-The system focuses on generating fashion concepts, predicting demand and customer preference, explaining design performance and improving designs through a closed-loop refinement process. :contentReference[oaicite:1]{index=1}
-
+</p>
+<br>
 
 ---
 
 
-# 📊 GitHub Stats
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  Featured Projects
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  <br>
+  <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 MIMO - AI Powered Smart Study Robot</h3>
+
+<sub>
+AI-powered learning assistant integrating ESP32, OpenAI API, Computer Vision and speech technologies.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,arduino&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="28" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛒 LankaSmartMart</h3>
+
+<sub>
+Flutter-based grocery shopping application with Firebase authentication, cloud synchronization and offline support.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 DevInsight</h3>
+
+<sub>
+AI-powered software engineering platform for GitHub repository analysis, software risk prediction, project-aware prioritization and explainable AI recommendations.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/🟡_Currently_Developing-F2C94C?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/XGBoost-189C3D?style=flat&logo=xgboost&logoColor=white" height="28" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👗 Explainable Multi-Objective Generative Fashion Design</h3>
+
+<sub>
+Deep learning-based fashion design generation combined with demand prediction and explainable feedback through a closed-loop refinement process.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/🟡_Currently_Developing-F2C94C?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,flutter&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏥 SmartCare Hospital Management System</h3>
+
+<sub>
+Hospital management system developed using Java, Spring Boot, MySQL, Spring Data JPA and REST APIs.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 OGBN-Arxiv Graph Intelligence</h3>
+
+<sub>
+Graph Neural Network project using the OGBN-Arxiv citation network for research-paper classification and graph analysis.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/GCN-4B0082?style=flat" height="28" />
+<img src="https://img.shields.io/badge/GraphSAGE-4B0082?style=flat" height="28" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🩺 SmartCare Disease Risk AI</h3>
+
+<sub>
+Explainable Machine Learning system for classifying patients into Low, Medium and High disease-risk categories using healthcare data.
+</sub>
+
+<p>
+<img src="https://img.shields.io/badge/✔_Completed-2ea44f?style=flat" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔗 More Projects</h3>
+
+<sub>
+Explore my GitHub repositories for additional AI, software engineering, IoT and application-development projects.
+</sub>
+
+<p>
+<a href="https://github.com/Dasith-Randula">
+<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=flat&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
@@ -199,8 +342,11 @@ The system focuses on generating fashion concepts, predicting demand and custome
 ---
 
 
-# ✍️ Developer Quote
-
+<h2 align="center"> 
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+  ✍️ Developer Quote
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+</h2>
 
 <div align="center">
 
@@ -212,6 +358,14 @@ The system focuses on generating fashion concepts, predicting demand and custome
 
 <!-- Snake Game Repo View -->
 
+<h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun Zone <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
+
+&nbsp;&nbsp;
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -219,69 +373,25 @@ The system focuses on generating fashion concepts, predicting demand and custome
 
 ---
 
-### 🔝 Top Repositories
 
-<table>
-<tr>
-<td width="50%">
+<!------------------------- FOOTER ------------------------>
 
-**🛒 [lanka-smart-mart](https://github.com/Dasith-Randula/lanka-smart-mart)**
+<div align="center">
 
-LankaSmartMart is a Flutter-based online grocery shopping app for Sri Lanka with Firebase Authentication, Firestore, SQLite offline cart support, real-time synchronization, order management, and notifications.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
-</td>
-<td width="50%">
+<h1>Thanks for visiting my profile! 👋</h1>
 
-**🏥 [SmartCare-Hospital-Management-System](https://github.com/Dasith-Randula/SmartCare-Hospital-Management-System)**
+<h4>
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+</h4>
 
-SmartCare Hospital Management System developed using Java, Spring Boot, MySQL, Spring Data JPA and REST APIs for the CCS1303 Object-Oriented Programming coursework.
+<br>
 
-![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="28"/>
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1720,100:1155CC&height=110&section=footer"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📈 [ogbn-arxiv-graph-intelligence](https://github.com/Dasith-Randula/ogbn-arxiv-graph-intelligence)**
-
-Graph Neural Network project for analyzing the OGBN-Arxiv citation network and classifying research papers with interactive visualizations.
-
-![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28"/>
-![GCN](https://img.shields.io/badge/GCN-4B0082?style=flat)
-![GraphSAGE](https://img.shields.io/badge/GraphSAGE-4B0082?style=flat)
-
-</td>
-<td width="50%">
-
-**🩺 [smartcare-disease-risk-ai](https://github.com/Dasith-Randula/smartcare-disease-risk-ai)**
-
-Explainable machine learning system for classifying SmartCare hospital patients into Low, Medium and High disease-risk categories using clinical and healthcare data.
-
-![Completed](https://img.shields.io/badge/✔_Completed-2ea44f?style=flat)
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" height="28"/>
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Typing SVG" />
-</p>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
