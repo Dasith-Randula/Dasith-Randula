@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dasith-Randula&color=blue" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dasith-Randula.Dasith-Randula" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/Dasith-Randula?label=Followers&style=social" alt="GitHub Followers" />
 </p>
